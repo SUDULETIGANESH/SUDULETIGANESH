@@ -13,7 +13,7 @@ I'm passionate about building scalable web applications using the MERN stack (Mo
 - 🔢 **Algorithms:** Problem-solving techniques like Two-Pointer Strategy
 
 ### 📌 Featured Projects
-- 🏗️ **Task Manager** – [GitHub Repo](https://github.com/yourusername/project1)  
+- 🏗️ **Task Manager** – [GitHub Repo](https://github.com/SUDULETIGANESH/Task_Manager)  
   _Task Manager is a application which we can do CRUD operations on Tasks, Here I used Redux Toolkit for state management._
 - 🌐 **Project Name 2** – [GitHub Repo](https://github.com/yourusername/project2)  
   _Include features, challenges faced, and how you solved them._
