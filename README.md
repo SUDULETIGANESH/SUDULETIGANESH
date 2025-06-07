@@ -1,4 +1,4 @@
-# Hi there, I'm Ganesh! 👋
+# Hi there, I'm Ganesh Suduleti! 👋
 
 ### 🚀 Aspiring Full-Stack Developer | MERN Stack Enthusiast
 
